@@ -1,0 +1,22 @@
+{
+  "name": "likeeteaa",
+  "version": "1.0.0",
+  "description": "Oss first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roseblack234/likeeteaa.git"
+  },
+  "dependencies": {
+    "tealikelove": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roseblack234/likeeteaa/issues"
+  },
+  "homepage": "https://github.com/roseblack234/likeeteaa#readme"
+}
