@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roseblack234/likeeteaa.git"
+    "url": "https://github.com/roseblack234/likeeteaa.git"
   },
   "dependencies": {
     "tealikelove": "0.1.4"
